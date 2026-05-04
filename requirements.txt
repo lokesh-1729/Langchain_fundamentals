@@ -10,3 +10,4 @@ langchain_chroma
 faiss-cpu
 wikipedia
 langchain_tools
+demo
