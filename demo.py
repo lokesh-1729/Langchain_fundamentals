@@ -5,4 +5,6 @@ print("hello in main")
 print("hello lokesh")
 print("hello again")
 print("main")
-print("stash")
+
+def addition(a,b):
+  print(a+b)
