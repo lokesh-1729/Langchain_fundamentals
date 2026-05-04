@@ -11,3 +11,5 @@ faiss-cpu
 wikipedia
 langchain_tools
 demo
+demo2 
+demo3
